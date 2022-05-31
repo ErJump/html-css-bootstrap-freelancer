@@ -24,8 +24,30 @@
     background-color: white;
 }
 
+.ms_footer_top{
+    background-color: #3A546D;
+}
+
+.ms_footer_bot{
+    background-color: #2C3E50;
+}
+
 .bi.bi-star-fill{
     /* font-size: 2rem;
     width: 2rem;
     height: 2rem; */
 }
+
+.ms_social{
+    font-size: 1.5rem;
+    line-height: 45px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+
+.ms_link{
+    text-decoration: none;
+    color: #1abc9c;
+}
+
