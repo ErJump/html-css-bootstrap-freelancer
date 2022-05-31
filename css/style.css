@@ -32,12 +32,6 @@
     background-color: #2C3E50;
 }
 
-.bi.bi-star-fill{
-    /* font-size: 2rem;
-    width: 2rem;
-    height: 2rem; */
-}
-
 .ms_social{
     font-size: 1.5rem;
     line-height: 45px;
@@ -51,3 +45,10 @@
     color: #1abc9c;
 }
 
+@media all and (min-width: 750px){
+    .bi.bi-star-fill{
+        font-size: 2rem;
+        width: 2rem;
+        height: 2rem;
+    }
+}
